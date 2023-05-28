@@ -1,0 +1,7 @@
+<testsuite name="Mocha Tests" tests="3" failures="0" errors="0" skipped="1" timestamp="Sun, 28 May 2023 07:29:44 GMT" time="25.593">
+<testcase classname="Amazon Test Suite" name="Title Validation" time="6.714"/>
+<testcase classname="Amazon Test Suite" name="Search Validation" time="13.789"/>
+<testcase classname="Amazon Test Suite" name="Search ddt Validation (example #1)" time="0"><skipped/></testcase>
+<testcase classname="Amazon Test Suite" name="Search ddt Validation (example #2)" time="0"><skipped/></testcase>
+<testcase classname="Amazon Test Suite" name="Search ddt Validation (example #3)" time="0"><skipped/></testcase>
+</testsuite>
